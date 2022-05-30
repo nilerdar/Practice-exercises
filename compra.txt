@@ -1,0 +1,3 @@
+Disco duro Samsung 2TB;50.000000,15
+Raton Logitech;12.000000,14
+Pantalla;200.000000,19
